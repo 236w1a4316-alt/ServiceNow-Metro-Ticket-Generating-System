@@ -62,3 +62,9 @@ Project screenshots are available in the `Screenshots` folder.
 ## Project Outcome
 
 The system provides a simple and automated way for commuters to book metro tickets through a ServiceNow Service Portal.
+## Documentation
+
+All project documentation files are available in the Google Drive folder.
+
+View Project Documentation>>>> (https://drive.google.com/drive/folders/14cSOmRnDyWkG1ThaMIHPhF2TDfgl99Br?usp=drive_link)
+
